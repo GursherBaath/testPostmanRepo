@@ -1,0 +1,21 @@
+{
+	"info": {
+		"_postman_id": "092d00ca-cafe-408e-8947-1165120768ed",
+		"name": "test collection",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "New Request",
+			"id": "e7e5abe7-84a9-445e-be7a-77c08cd9c5db",
+			"protocolProfileBehavior": {
+				"disableBodyPruning": true
+			},
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
